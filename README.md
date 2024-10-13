@@ -10,7 +10,7 @@ The goal of these SQL projects is to:
 ## Repository Contents
 **1. DDL Commands (School Database)**  
  - **Goal**: Understand and apply Data Definition Language (DDL) commands.  
-- **Files**:  
+- **Files**: School.sql 
             (Use of CREATE, ALTER, RENAME, TRUNCATE, and DROP commands on the STUDENT table) 
             
 **2. DDL Constraints (Sales Database)**  
