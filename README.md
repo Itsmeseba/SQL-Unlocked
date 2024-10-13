@@ -15,7 +15,7 @@ The goal of these SQL projects is to:
             
 **2. DDL Constraints (Sales Database)**  
   - **Goal**: Explore the use of constraints like PRIMARY KEY, UNIQUE, and NOT NULL.  
-  - **Files**: Sales Orders.sql 
+  - **Files**: Sales Orders.sql     
 (SQL script to create the Sales database with the Orders table and apply constraints & Script for modifying the structure by adding/removing columns)  
 
 **3. DML Commands (Managers Table)**  
