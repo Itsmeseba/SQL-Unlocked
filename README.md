@@ -1,2 +1,60 @@
 # SQL-Unlocked
-This repository documents my learning journey in relational databases and SQL, from mastering the basics to exploring advanced queries. It covers key topics like query optimization, data manipulation, and database design. You’ll find examples of SQL queries and strategies for building scalable, efficient, and reliable databases
+This repository contains a comprehensive set of SQL projects that demonstrate the use of various SQL concepts such as Data Definition Language (DDL), Data Manipulation Language (DML), querying, joins, functions, subqueries, views, stored procedures, and triggers. Each project showcases essential database management techniques, focusing on optimizing performance and ensuring data integrity.
+## Project Objectives
+The goal of these SQL projects is to:
+- **Master SQL fundamentals**: Explore DDL, DML, and querying techniques.
+- **Implement relational database design best practices**: Use constraints, views, stored procedures, and triggers to ensure efficient data management.
+- **Enhance data analysis**: Use advanced SQL queries to retrieve meaningful insights from datasets.
+- **Automate tasks with stored procedures**: Simplify repetitive tasks using procedural SQL.
+- **Enforce data integrity**: Implement constraints, triggers, and functions for maintaining accurate and reliable databases.
+## Repository Contents
+**1. DDL Commands (School Database)**  
+ - **Goal**: Understand and apply Data Definition Language (DDL) commands.  
+- **Files**:  
+            (Use of CREATE, ALTER, RENAME, TRUNCATE, and DROP commands on the STUDENT table) 
+            
+**2. DDL Constraints (Sales Database)**  
+  - **Goal**: Explore the use of constraints like PRIMARY KEY, UNIQUE, and NOT NULL.  
+  - **Files**:  
+(SQL script to create the Sales database with the Orders table and apply constraints & Script for modifying the structure by adding/removing columns)  
+
+**3. DML Commands (Managers Table)**  
+  - **Goal**: Practice Data Manipulation Language (DML) queries to modify and retrieve data.  
+  - **Files**:    
+(Script for inserting, updating, and querying data in the Managers table.)  
+
+**4. Querying Data (Country and Persons Tables)**  
+  - **Goal**: Write complex SQL queries to retrieve and filter data.  
+ - **Files**:    
+(SQL queries to perform conditional data retrieval from Country and Persons tables.)  
+
+**5. Joins and Unions**  
+- **Goal**: Practice SQL joins and union operations for multi-table querying.    
+- **Files**:  
+(Examples of INNER JOIN, LEFT JOIN, RIGHT JOIN, and UNION operations on Country and Persons)  
+
+**6. Sorting and Grouping Data**  
+- **Goal**: Explore sorting, grouping, and aggregate functions.  
+- **Files**:  
+(Queries to sort and group data from Country and Persons tables, with filtering and aggregate functions.)
+
+**7. Functions**  
+- **Goal**: Implement and use user-defined SQL functions.  
+- **Files**:  
+(Queries to create functions for calculating age, string manipulation, and case conversion.)
+
+**8. Subqueries and Views**
+- **Goal**: Understand and apply subqueries and views to manage and retrieve complex data.  
+- **Files**:  
+  (Queries to create views and perform subqueries for data analysis in the Product database.)
+  
+**9. Stored Procedures**  
+- **Goal**: Automate repetitive tasks using stored procedures.  
+- **Files**:  
+(Scripts to create and invoke stored procedures for data insertion, updates, and calculations in the Worker table.)
+
+**10. Triggers**  
+- **Goal**: Enforce business rules and maintain data integrity using triggers.  
+- **Files**:  
+(Scripts to create triggers for insertions and deletions in the teachers table, ensuring accurate data tracking.)  
+
