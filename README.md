@@ -20,7 +20,7 @@ The goal of these SQL projects is to:
 
 **3. DML Commands (Managers Table)**  
   - **Goal**: Practice Data Manipulation Language (DML) queries to modify and retrieve data.  
-  - **Files**:    
+  - **Files**: DML Commands - Managers Table.sql   
 (Script for inserting, updating, and querying data in the Managers table.)  
 
 **4. Querying Data (Country and Persons Tables)**  
