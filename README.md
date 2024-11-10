@@ -25,7 +25,7 @@ The goal of these SQL projects is to:
 
 **4. Querying Data (Country and Persons Tables)**  
   - **Goal**: Write complex SQL queries to retrieve and filter data.  
- - **Files**: Querying Data.sql 
+ - **Files**: Querying Data.sql     
 (SQL queries to perform conditional data retrieval from Country and Persons tables.)  
 
 **5. Joins and Unions**  
