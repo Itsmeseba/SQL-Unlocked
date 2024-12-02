@@ -30,7 +30,7 @@ The goal of these SQL projects is to:
 
 **5. Joins and Unions**  
 - **Goal**: Practice SQL joins and union operations for multi-table querying.    
-- **Files**: Sorting & Grouping Data.sql 
+- **Files**: Sorting & Grouping Data.sql     
 (Examples of INNER JOIN, LEFT JOIN, RIGHT JOIN, and UNION operations on Country and Persons)  
 
 **6. Sorting and Grouping Data**  
