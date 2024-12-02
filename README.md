@@ -28,15 +28,15 @@ The goal of these SQL projects is to:
  - **Files**: Querying Data.sql     
 (SQL queries to perform conditional data retrieval from Country and Persons tables.)  
 
-**5. Joins and Unions**  
-- **Goal**: Practice SQL joins and union operations for multi-table querying.    
+**5. Sorting and Grouping Data**  
+- **Goal**: Explore sorting, grouping, and aggregate functions.    
 - **Files**: Sorting & Grouping Data.sql     
-(Examples of INNER JOIN, LEFT JOIN, RIGHT JOIN, and UNION operations on Country and Persons)  
+(Queries to sort and group data from Country and Persons tables, with filtering and aggregate functions.)  
 
-**6. Sorting and Grouping Data**  
-- **Goal**: Explore sorting, grouping, and aggregate functions.  
+**6. Joins and Unions**
+- **Goal**:  Practice SQL joins and union operations for multi-table querying. 
 - **Files**:  
-(Queries to sort and group data from Country and Persons tables, with filtering and aggregate functions.)
+(Examples of INNER JOIN, LEFT JOIN, RIGHT JOIN, and UNION operations on Country and Persons)
 
 **7. Functions**  
 - **Goal**: Implement and use user-defined SQL functions.  
