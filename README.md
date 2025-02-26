@@ -40,7 +40,7 @@ The goal of these SQL projects is to:
 
 **7. Functions**  
 - **Goal**: Implement and use user-defined SQL functions.  
-- **Files**:  
+- **Files**:  Functions.sql    
 (Queries to create functions for calculating age, string manipulation, and case conversion.)
 
 **8. Subqueries and Views**
