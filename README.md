@@ -45,7 +45,7 @@ The goal of these SQL projects is to:
 
 **8. Subqueries and Views**
 - **Goal**: Understand and apply subqueries and views to manage and retrieve complex data.  
-- **Files**:  
+- **Files**:  Subqueries and Views.sql       
   (Queries to create views and perform subqueries for data analysis in the Product database.)
   
 **9. Stored Procedures**  
